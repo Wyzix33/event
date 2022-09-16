@@ -1,0 +1,10 @@
+{
+  "name": "event",
+  "version": "1.0.0",
+  "description": "manage events",
+  "main": "event.js",
+  "author": "Floricel Gabriel-Costin",
+  "license": "No License",
+  "sideEffects": false,
+  "private": true
+}
